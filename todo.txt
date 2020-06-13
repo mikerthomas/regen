@@ -1,0 +1,14 @@
+Ask user for an input file name.
+
+Ask user for an output file name.
+
+Ask user which AMO's to import. Have all as an option.
+
+For each AMO create a new sheet.
+
+Rename each sheet with AMO name.
+
+Put header row for each AMO.
+
+
+
